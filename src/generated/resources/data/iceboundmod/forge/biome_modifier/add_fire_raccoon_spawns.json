@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "iceboundmod:snowybeach_biome"
+  ],
+  "spawners": {
+    "type": "iceboundmod:fire_raccoon",
+    "maxCount": 2,
+    "minCount": 1,
+    "weight": 15
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:leather_leggings"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WLW",
+    "WWW"
+  ],
+  "result": {
+    "item": "iceboundmod:wool_leggings"
+  },
+  "show_notification": true
+}

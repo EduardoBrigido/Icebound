@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "iceboundmod:crystallum"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " C ",
+    " C ",
+    " S "
+  ],
+  "result": {
+    "item": "iceboundmod:crystallum_sword"
+  },
+  "show_notification": true
+}

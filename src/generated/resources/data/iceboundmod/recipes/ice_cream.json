@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "iceboundmod:strawberry"
+    },
+    {
+      "item": "iceboundmod:iceberry"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "iceboundmod:ice_cream"
+  }
+}

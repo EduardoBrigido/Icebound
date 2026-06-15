@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "iceboundmod:snowybeach_biome",
+  "features": "iceboundmod:snowpalm_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,7 @@
+// 1.20.1	2026-06-11T18:32:52.5995072	Tags for minecraft:block mod id iceboundmod
+0dd90ff59f45fc8d3495e9bc931707be2fcac6c2 data/minecraft/tags/blocks/dirt.json
+8153bc69269a8b99455bf6d324a2954c4226d9ff data/minecraft/tags/blocks/leaves.json
+d0de9dae985c2dbafa77f19ea4d7aa08201fe906 data/minecraft/tags/blocks/logs.json
+d0de9dae985c2dbafa77f19ea4d7aa08201fe906 data/minecraft/tags/blocks/logs_that_burn.json
+f6b67ea00bc5416ea7a5045c503825f88f4eb2b3 data/minecraft/tags/blocks/mineable/pickaxe.json
+f6b67ea00bc5416ea7a5045c503825f88f4eb2b3 data/minecraft/tags/blocks/needs_iron_tool.json

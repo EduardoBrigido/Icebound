@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:frozen_river",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "iceboundmod:snowybeach_biome"
+  ],
+  "features": "iceboundmod:crystallum_ore_placed",
+  "step": "underground_ores"
+}

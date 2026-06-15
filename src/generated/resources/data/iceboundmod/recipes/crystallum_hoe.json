@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "iceboundmod:crystallum"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "CC ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "iceboundmod:crystallum_hoe"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,34 @@
+{
+  "item.iceboundmod.crystallum": "Crystallum",
+  "item.iceboundmod.raw_crystallum": "Raw Crystallum",
+  "item.iceboundmod.crystallum_sword": "Crystallum Sword",
+  "item.iceboundmod.crystallum_hoe": "Crystallum Hoe",
+  "item.iceboundmod.ice_cream": "Ice Cream",
+  "item.iceboundmod.strawberry": "Strawberry",
+  "item.iceboundmod.iceberry": "Iceberry",
+  "item.iceboundmod.strawberry_seeds": "Strawberry Seeds",
+
+  "item.iceboundmod.wool_helmet": "Wool Helmet",
+  "item.iceboundmod.wool_chestplate": "Wool Chestplate",
+  "item.iceboundmod.wool_leggings": "Wool Leggings",
+  "item.iceboundmod.wool_boots": "Wool Boots",
+  "item.iceboundmod.hot_choco": "Hot Chocolate",
+  "item.iceboundmod.penguin_spawn_egg": "Penguin Spawn Egg",
+  "item.iceboundmod.ice_arrow": "Ice Arrow",
+  "block.iceboundmod.palm_snow_sapling": "Snow Palm Sapling",
+  "block.iceboundmod.snowpalm_log": "Snow Palm Log",
+  "block.iceboundmod.ice_sand": "Ice Sand",
+
+  "item.iceboundmod.fire_raccoon_spawn_egg": "Fire Raccoon Spawn Egg",
+  "entity.iceboundmod.penguin": "Penguin",
+  "entity.iceboundmod.fire_raccoon": "Fire Raccoon",
+
+  "block.iceboundmod.strawberry_seeds": "Strawberry Seeds",
+
+  "block.iceboundmod.raw_crystallum_block": "Raw Crystallum Block",
+  "block.iceboundmod.crystallum_block": "Block of Crystallum",
+  "block.iceboundmod.crystallum_ore": "Crystallum Ore",
+  "block.iceboundmod.deepslate_crystallum_ore": "Deepslate Crystallum Ore",
+  "creativetab.icebound_tab": "Icebound Tab"
+
+}

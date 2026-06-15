@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:leather_helmet"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WHW",
+    "WWW"
+  ],
+  "result": {
+    "item": "iceboundmod:wool_helmet"
+  },
+  "show_notification": true
+}

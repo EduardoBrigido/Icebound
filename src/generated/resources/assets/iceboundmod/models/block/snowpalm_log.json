@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "iceboundmod:block/snowpalm_log_top",
+    "side": "iceboundmod:block/snowpalm_log"
+  }
+}

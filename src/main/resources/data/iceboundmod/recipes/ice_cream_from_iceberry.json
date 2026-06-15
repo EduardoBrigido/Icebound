@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "iceboundmod:strawberry",
+    "#": "minecraft:milk_bucket",
+    "W": "iceboundmod:iceberry"
+  },
+  "pattern": [
+    "S#W"
+  ],
+  "result": {
+    "item": "iceboundmod:ice_cream",
+    "count": 2
+  }
+}

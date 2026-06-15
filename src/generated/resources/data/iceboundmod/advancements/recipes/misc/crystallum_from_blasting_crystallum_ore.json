@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_crystallum_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "iceboundmod:crystallum_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "iceboundmod:crystallum_from_blasting_crystallum_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_crystallum_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "iceboundmod:crystallum_from_blasting_crystallum_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

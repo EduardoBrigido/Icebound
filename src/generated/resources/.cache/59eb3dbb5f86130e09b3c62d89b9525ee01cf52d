@@ -1,0 +1,11 @@
+// 1.20.1	2026-06-10T02:35:22.7802835	Loot Tables
+c5b0e78cc31d5859bf71f8d4b3dba3c6152fbfa9 data/iceboundmod/loot_tables/blocks/crystallum_block.json
+d5e184d56386cf8bb2eacfd99a233b7cc540a906 data/iceboundmod/loot_tables/blocks/crystallum_ore.json
+cf33c7cce89aa0a109ca39046c493d9d68f081fa data/iceboundmod/loot_tables/blocks/deepslate_crystallum_ore.json
+5883f02f4685c6f2d1b5a6a4485a5062d2e5fcb7 data/iceboundmod/loot_tables/blocks/ice_sand.json
+e8755971003ba6ef71ac10dee0590b36b11b25ac data/iceboundmod/loot_tables/blocks/palm_snow_sapling.json
+ded54a176d98c2fad309f2fcd10559d8eecfe330 data/iceboundmod/loot_tables/blocks/snowpalm_log.json
+90c40c030761599fed2d342543ace7992d1fbfe5 data/iceboundmod/loot_tables/blocks/snow_palm_leaves.json
+53c4f3a51fa7a6ba0bf4f05fe26fdfb1bb8bf088 data/iceboundmod/loot_tables/blocks/strawberry_crop.json
+f90695b1c460b228589593be95c91c6e5c17a09e data/iceboundmod/loot_tables/entities/fire_raccoon.json
+63756912392f8fd9f57e580a3f87636a6661123e data/iceboundmod/loot_tables/entities/penguin.json
