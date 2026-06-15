@@ -8,7 +8,7 @@ Mod para Minecraft 1.20.1 (Forge) que adiciona um bioma, com novos itens, mobs, 
 ## Funcionalidades
 
 ### Bioma
-- Snowy Beach: bioma de praia nevada com areia gelada e coqueiros de neve
+- Snowy Beach: bioma de praia nevada com areia congelada e palmeiras de neve
 
 ### Itens e Blocos
 - Crystallum: minério encontrado em biomas frios
